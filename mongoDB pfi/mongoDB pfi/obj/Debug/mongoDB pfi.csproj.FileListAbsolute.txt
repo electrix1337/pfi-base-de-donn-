@@ -1,0 +1,40 @@
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\libzstd.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\snappy32.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\snappy64.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\libsnappy64.so
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\libzstd.so
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\libsnappy64.dylib
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\libzstd.dylib
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\mongocrypt.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\mongoDB pfi.exe.config
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\mongoDB pfi.exe
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\mongoDB pfi.pdb
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\DnsClient.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Bson.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Driver.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\SharpCompress.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Buffers.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Memory.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\DnsClient.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Bson.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Driver.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Buffers.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Memory.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.csproj.AssemblyReference.cache
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.csproj.SuggestedBindingRedirects.cache
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB_pfi.Form1.resources
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB_pfi.Properties.Resources.resources
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.csproj.GenerateResource.cache
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.csproj.CoreCompileInputs.cache
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.csproj.CopyComplete
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.exe
+C:\Users\energ\source\repos\mongoDB pfi\mongoDB pfi\obj\Debug\mongoDB pfi.pdb

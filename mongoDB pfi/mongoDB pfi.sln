@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongoDB pfi", "mongoDB pfi\mongoDB pfi.csproj", "{5E26C1C6-FBE6-439A-B695-885298FF9A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E26C1C6-FBE6-439A-B695-885298FF9A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E26C1C6-FBE6-439A-B695-885298FF9A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E26C1C6-FBE6-439A-B695-885298FF9A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E26C1C6-FBE6-439A-B695-885298FF9A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCD8DC2-4EFB-4CEC-BC09-4500B776AC70}
+	EndGlobalSection
+EndGlobal
